@@ -9,7 +9,6 @@ pids
 *.seed
 
 .vscode
-dist
 *.metadata.json
 *.ngsummary.json
 *.ngfactory.ts
