@@ -30,7 +30,7 @@
         "resize"
     ],
     "dependencies": {
-        "exif-js": "github:ammuench/exif-js", 
+        "exif-js": "github: matteobucci/exif-js", 
         "ng2-pica": "^1.2.12"
     },
     "peerDependencies": {
